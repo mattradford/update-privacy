@@ -44,6 +44,10 @@ Also consider a WordPress install with WooCommerce - do you want to send the num
 
 Yes. See https://github.com/mattradford/update-privacy
 
+= Who did the banner art? =
+
+The image is licensed under the Creative Commons, and was taken by Isengardt: https://www.flickr.com/photos/isengardt/
+
 == Changelog ==
 
 1.0.1   Add composer.json, fix typo and add Github URL 
