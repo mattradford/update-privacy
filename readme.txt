@@ -46,7 +46,7 @@ Yes. See https://github.com/mattradford/update-privacy
 
 = Who did the banner art? =
 
-The image is licensed under the Creative Commons, and was taken by Isengardt: https://www.flickr.com/photos/isengardt/
+The image is licensed under the Creative Commons, Attribution 2.0 Generic (CC BY 2.0), and was taken by Tim Parkinson: https://www.flickr.com/photos/timparkinson/. Original image: https://www.flickr.com/photos/timparkinson/509774987/in/photolist-M3JkV-SBenGs-DTfnt-9D55KS-5dV6i4-DThif-ccE7GW-5mfo7h-dN6GbY-GtD7y-bVhSsv-9G8yCm-3fwgHt-TFUyB2-bVhSiX-5dZqJ1-5dV76t-5dZrL1-5mb6HT-4stVFT-6ftjX6-GtGwz-sX9CY-nPwQUR-3Zcbby-GtDJo-SEPetr-9FoGdT-2U3JM-ee9npF-5v7Wwg-v3u6aw-aMmB2a-sX9Ge-DTesZ-SzxxT1-GtCHd-5mfoTW-DTesN-TCbsq7-8t7YtD-96pPZ-7SD5w6-5dZrjE-5dV6ti-5dZsMN-TFQ9ND-DTeso-5dZsaQ-5dZtLJ
 
 == Changelog ==
 

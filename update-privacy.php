@@ -10,7 +10,7 @@
 	License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
-function mattrad_update_privacy( $query ) 
+function mattrad_update_privacy( $query ) {
 	unset($query['php']);
 	unset($query['mysql']);
 	unset($query['local_package']);
