@@ -7,11 +7,12 @@ Requires PHP: 5.2.4
 Tags: privacy, updates, GDPR
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Prevents WordPress sending anything but essential data during the update check.
+
+Stop WordPress sending anything but essential data during the update check.
 
 == Description ==
 
-Prevents WordPress sending anything but essential data during the update check.
+Stop WordPress sending anything but essential data during the update check.
 
 By default, WordPress sends the following data during the version update check:
 
@@ -46,7 +47,7 @@ Also consider a WordPress install with WooCommerce - do you want to send the num
 
 = Can I include this plugin using Composer? =
 
-Yes. See <https://github.com/mattradford/update-privacy>
+Yes. See https://github.com/mattradford/update-privacy>
 
 = Who did the banner art? =
 

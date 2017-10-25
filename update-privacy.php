@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Update Privacy
 	Plugin URI: https://wordpress.org/plugins/update-privacy
-	Description: Prevents WordPress sending anything but essential data during the update check.
+	Description: Prevent WordPress sending anything but essential data during the update check.
 	Author: Matt Radford
 	Author URI: https://mattrad.uk
 	Version: 1.0.1
