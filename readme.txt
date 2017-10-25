@@ -57,6 +57,8 @@ The image is licensed under the Creative Commons, Attribution 2.0 Generic (CC BY
 
 == Changelog ==
 
-1.0.1   Add composer.json, fix typo and add Github URL 
+1.0.2   Fix short description so it shows correctly.
 
-1.0.0   Initial release
+1.0.1   Add composer.json, fix typo and add Github URL. 
+
+1.0.0   Initial release.
