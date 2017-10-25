@@ -1,0 +1,19 @@
+{
+    "name": "mattrad/update-privacy",
+    "description": "Prevents WordPress sending anything but essential data during the update check.",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://mattrad.uk",
+    "license": "GPL2",
+    "authors": [
+      {
+        "name": "Matt Radford",
+        "email": "matt@mattrad.uk",
+        "homepage": "https://mattrad.uk"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.2.4",
+      "composer/installers": "v1.0.6"
+    }
+  }
