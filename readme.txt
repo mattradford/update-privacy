@@ -2,7 +2,7 @@
 Contributors: mattrad
 Requires at least: 4.9
 Tested up to: 4.9-beta3-41967
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 5.2.4
 Tags: privacy, updates, GDPR
 License: GPLv2 or later
@@ -10,6 +10,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Prevents WordPress sending anything but essential data during the update check.
 
 == Description ==
+
+Prevents WordPress sending anything but essential data during the update check.
 
 By default, WordPress sends the following data during the version update check:
 
