@@ -32,7 +32,7 @@ There are no options to configure with this plugin.
  
 = Why do I need this? =
  
-Because WordPress sends non-essential data on every update check to wordpress.org.'s API.
+Because WordPress sends non-essential data on every update check to wordpress.org's API.
  
 = But that's ok, right? =
  
