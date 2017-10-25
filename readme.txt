@@ -40,6 +40,12 @@ On a WordPress install with only one user, sure, that's up to you. But if you ha
 Under the GDPR, even pseudonymised data (such as IP address) needs to be considered as data that you should be protecting on behalf of your users.
 Also consider a WordPress install with WooCommerce - do you want to send the number of your customers to a 3rd party? If you do, you may need to get their consent to do so.
 
+= Can I include this plugin using Composer? =
+
+Yes. See https://github.com/mattradford/update-privacy
+
 == Changelog ==
 
-1.0.0 Initial release
+1.0.1   Add composer.json, fix typo and add Github URL 
+
+1.0.0   Initial release

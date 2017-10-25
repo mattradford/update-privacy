@@ -5,7 +5,7 @@
 	Description: Prevents WordPress sending anything but essential data during the update check.
 	Author: Matt Radford
 	Author URI: https://mattrad.uk
-	Version: 1.0.0
+	Version: 1.0.1
 	License: GPLv2 or later
 	License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
