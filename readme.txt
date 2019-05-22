@@ -1,8 +1,8 @@
 === Update Privacy ===
 Contributors: mattrad
 Requires at least: 4.9
-Tested up to: 4.9-beta3-41967
-Stable tag: 1.0.1
+Tested up to: 5.2.1
+Stable tag: 1.0.3
 Requires PHP: 5.2.4
 Tags: privacy, updates, GDPR
 License: GPLv2 or later
@@ -25,20 +25,20 @@ By default, WordPress sends the following data during the version update check:
 * Number of users
 * The WordPress database version during initial installation
 
-The WordPress dashboard does not currently provide a way to opt-out of this data collection, but WordPress 4.9 introduced the ability to change whether this data is sent. 
+The WordPress dashboard does not currently provide a way to opt-out of this data collection, but WordPress 4.9 introduced the ability to change whether this data is sent.
 
 This plugin ensures only essential data - current WordPress version and language - are sent during the update check.
 
 There are no options to configure with this plugin.
 
 == Frequently Asked Questions ==
- 
+
 = Why do I need this? =
- 
+
 Because WordPress sends non-essential data on every update check to wordpress.org's API.
- 
+
 = But that's ok, right? =
- 
+
 On a WordPress install with only one user, sure, that's up to you. But if you have more than one user, you need to consider their data as well.
 
 Under the GDPR, even pseudonymised data (such as IP address) needs to be considered as data that you should be protecting on behalf of your users.
@@ -57,8 +57,14 @@ The image is licensed under the Creative Commons, Attribution 2.0 Generic (CC BY
 
 == Changelog ==
 
-1.0.2   Fix short description so it shows correctly.
+= 1.0.3 =
+* Fix typo. Update FAQ.
 
-1.0.1   Add composer.json, fix typo and add Github URL. 
+= 1.0.2 =
+* Fix short description so it shows correctly.
 
-1.0.0   Initial release.
+= 1.0.1 =
+* Add composer.json, fix typo and add Github URL.
+
+= 1.0.0 =
+* Initial release.
