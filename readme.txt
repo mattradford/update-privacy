@@ -2,7 +2,7 @@
 Contributors: mattrad
 Requires at least: 4.9
 Tested up to: 5.2.1
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 Requires PHP: 5.2.4
 Tags: privacy, updates, GDPR
 License: GPLv2 or later
@@ -56,6 +56,9 @@ The image is licensed under the Creative Commons, Attribution 2.0 Generic (CC BY
 [Original image](https://www.flickr.com/photos/timparkinson/509774987/in/photolist-M3JkV-SBenGs-DTfnt-9D55KS-5dV6i4-DThif-ccE7GW-5mfo7h-dN6GbY-GtD7y-bVhSsv-9G8yCm-3fwgHt-TFUyB2-bVhSiX-5dZqJ1-5dV76t-5dZrL1-5mb6HT-4stVFT-6ftjX6-GtGwz-sX9CY-nPwQUR-3Zcbby-GtDJo-SEPetr-9FoGdT-2U3JM-ee9npF-5v7Wwg-v3u6aw-aMmB2a-sX9Ge-DTesZ-SzxxT1-GtCHd-5mfoTW-DTesN-TCbsq7-8t7YtD-96pPZ-7SD5w6-5dZrjE-5dV6ti-5dZsMN-TFQ9ND-DTeso-5dZsaQ-5dZtLJ)
 
 == Changelog ==
+
+= 1.0.4 =
+* Forcing a push.
 
 = 1.0.3 =
 * Fix typo. Update FAQ.
